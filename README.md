@@ -1,2 +1,2 @@
-# LoanCase_Prediction_BestClassifier
+# LoanCase_Prediction
 This project is to predict whether the customer will Pay-Off the Loan or not. We have used different classification algorithms such as K-Nearest Neighbor, Decision Tree, Support Vector Machine (SVM) and Logistic Regression. And evaluated this models using jaccard score, f1 score, logg loss. We concluded with the Best Classifier for our data set with the highest accuracy score.
